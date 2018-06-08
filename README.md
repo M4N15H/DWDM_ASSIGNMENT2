@@ -1,4 +1,4 @@
-# # Assignment 2
+## Assignment 2
 ### The Following Packages Were Installed For This Assignment
 * Tweepy - Twitter API for python.
 * elasticsearch - To push the data into Elastic Search DB.
